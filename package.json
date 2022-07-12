@@ -1,0 +1,16 @@
+{
+    "name": "lavalink",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-fetch": "^2.6.7",
+        "pm2": "^5.2.0"
+    },
+    "scripts": {
+        "start": "pm2-runtime start ."
+    },
+    "keywords": [],
+    "description": ""
+}
