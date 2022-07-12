@@ -1,5 +1,5 @@
 server: # REST and WS server, Do not change this.
-  port: PORT
+  port: $PORT
   address: 0.0.0.0
 
 lavalink:
