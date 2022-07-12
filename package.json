@@ -4,5 +4,5 @@
   "main": "index.js",
   "scripts": {
     "start": "bash start.sh"
-  },
+  }
 }
